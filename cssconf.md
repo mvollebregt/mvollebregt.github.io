@@ -49,7 +49,7 @@ omgevallen tests moet je met de hand controleren of het een fout is of een featu
 een gratis tool dat ook dit soort testing ondersteunt. Ook is er betaalde software 
 waarmee je het managen van dit soort tests wat gemakkelijker maakt.
 
-*Zoektermen: [CSS regression test](https://www.google.com/search?q=css+regression+test)*
+*Zoekterm: [CSS regression test](https://www.google.com/search?q=css+regression+test)*
 
 
 ## [Estefany Aguilar | CSS Logical Properties](https://2019.cssconf.eu/speakers/estefany-aguilar/#talk)
@@ -60,7 +60,7 @@ Arabisch, dat van rechts naar links gaat, of Japans, dat van boven naar beneden 
 om die talen te ondersteunen liever de logical properties als padding-block-start en
 padding-inline-end.
 
-*Zoektermen: [CSS logical properties](https://www.google.com/search?q=CSS+logical+properties)
+*Zoekterm: [CSS logical properties](https://www.google.com/search?q=CSS+logical+properties)
 
 ![zaal van CSS conf](cssconf.jpg)
 
@@ -72,11 +72,11 @@ CSS maak je kleine CSS-klassen die je bij elkaar kunt combineren in je HTML
 maar blijft je CSS kleiner, waardoor het laden van je pagina sneller gaat. 
 Tachyons.io is een CSS-library die dit principe toepast. 
 
-*Zoektermen: [Functional CSS](https://www.google.com/search?q=functional+CSS)
+*Zoekterm: [Functional CSS](https://www.google.com/search?q=functional+CSS)
 
 ## [Samuel Richard - Design System Magic with CSS Houdini](https://2019.cssconf.eu/speakers/samuel-richard/#talk)
 
 CSS Houdini zorgt ervoor dat je kunt interacteren met de CSS engine. Op die manier kun
 je door JavaScript te programmeren CSS uitbreiden met je eigen constructies. 
 
-*Zoektermen: [CSS Houdini](https://www.google.com/search?q=functional+CSS)
+*Zoekterm: [CSS Houdini](https://www.google.com/search?q=functional+CSS)
