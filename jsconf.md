@@ -1,7 +1,7 @@
 # JSConf in 10 minuten
 
 Rick en Michel van ilionx Interactive Marketing waren het hele vorige weekend in Berlijn voor CSSconf en JSConf EU 2019. 
-Eerder las je al een kort verslag van CSSconf. Hieronder volgen korte samenvattingen van een paar presentaties van 
+Eerder las je al een kort verslag van [CSSconf](cssconf). Hieronder volgen korte samenvattingen van een paar presentaties van 
 JSConf. Met de zoektermen kun je zelf meer informatie vinden.
 
 ## [Laurie Voss - JavaScript: who, what, where, why and next](https://2019.jsconf.eu/laurie-voss/javascript-who-what-where-why-and-next.html)
