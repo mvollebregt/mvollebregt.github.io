@@ -1,5 +1,7 @@
 # JSConf in 10 minuten
 
+*Zie ook [CSSconf](cssconf)*
+
 Rick en Michel van ilionx Interactive Marketing waren het hele vorige weekend in Berlijn voor CSSconf en JSConf EU 2019. 
 Eerder las je al een kort verslag van [CSSconf](cssconf). Hieronder volgen korte samenvattingen van een paar presentaties van 
 JSConf. Met de zoektermen kun je zelf meer informatie vinden.
@@ -110,3 +112,5 @@ is geschikt om vandaag te gaan gebruiken. Met wasm-pack compileer je je Rust cod
 
 *Zoektermen: [sandspiel](https://www.google.com/search?q=sandspiel);
 [Rust lang](https://www.google.com/search?q=rust+lang)* 
+
+*Zie ook [CSSconf](cssconf)*
